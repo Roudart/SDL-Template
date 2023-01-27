@@ -1,0 +1,22 @@
+﻿  Image.cpp
+  Inventory.cpp
+C:\Users\ST\Desktop\CGBOT\SDL Template\Inventory.cpp(6,19): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ST\Desktop\CGBOT\SDL Template\Inventory.cpp(7,19): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ST\Desktop\CGBOT\SDL Template\Inventory.cpp(23,19): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ST\Desktop\CGBOT\SDL Template\Inventory.cpp(24,19): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ST\Desktop\CGBOT\SDL Template\Inventory.cpp(49,47): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ST\Desktop\CGBOT\SDL Template\Inventory.cpp(49,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ST\Desktop\CGBOT\SDL Template\Inventory.cpp(62,63): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ST\Desktop\CGBOT\SDL Template\Inventory.cpp(62,53): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  Item.cpp
+C:\Users\ST\Desktop\CGBOT\SDL Template\Item.cpp(17,38): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ST\Desktop\CGBOT\SDL Template\Item.cpp(18,38): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ST\Desktop\CGBOT\SDL Template\Item.cpp(92,35): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ST\Desktop\CGBOT\SDL Template\Item.cpp(93,35): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ST\Desktop\CGBOT\SDL Template\Item.cpp(98,38): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ST\Desktop\CGBOT\SDL Template\Item.cpp(99,38): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  Manufacturer.cpp
+  Source.cpp
+  Weapon.cpp
+  Generando código...
+  SDL Template.vcxproj -> C:\Users\ST\Desktop\CGBOT\SDL Template\x64\Debug\SDL Template.exe
